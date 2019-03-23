@@ -1,6 +1,6 @@
 # A10fm
 
-> trainingg
+> This app consume last.fm api bringing the most listened artists in Argentina, Colombia and Spain.
 
 ## Build Setup
 
