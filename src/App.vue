@@ -1,6 +1,6 @@
 <template lang="pug">
   #app
-    img(src='./assets/logo.png')
+    img(src='https://agusisa.github.io/A10fm/dist/logo.png')
     h1 A10fm
     select(v-model="selectedCountry")
       option(v-for="country in countries" 
